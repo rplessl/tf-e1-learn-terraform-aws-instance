@@ -44,6 +44,10 @@ touch main.tf
 
 Edit and reconfigure `main.tf` according to exercise https://learn.hashicorp.com/tutorials/terraform/aws-build
 
+### Step 2
+
+Example Code after the steps is stored in `git branch configured_output`
+
 ---
 
 This work is licensed under a
